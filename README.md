@@ -22,6 +22,7 @@ Currently expanding my knowledge in both backend and web technologies.
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| [Mobile aplication](https://github.com/Michal-Czelusta/krakflow_flutter) | Mobile application developed as part of university coursework. Work in progress. | Flutter |
 | [Python Game](https://github.com/Michal-Czelusta/Pygame-Project) | A 2D game developed using Pygame, with a focus on object-oriented programming principles such as classes, inheritance, and modular code design. | Python |
 
 ## 📚 Currently
