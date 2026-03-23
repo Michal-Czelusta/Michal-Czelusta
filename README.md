@@ -1,13 +1,14 @@
 # Hi, I'm Michał 👋
 
-I'm a Computer Science student at the Pedagogical University of Kraków,
-passionate about low-level systems, networking, and building things from scratch.
+Computer Science student with a strong interest in software development and building practical projects.
+I enjoy learning how things work under the hood, but I’m also focused on creating useful applications and continuously improving my programming skills.
+Currently expanding my knowledge in both backend and web technologies.
 
 ## 🧰 Tech Stack
 
-**Languages:** Python · Java · Kotlin · C · C++  
-**Currently learning:** HTML · JS · PHP · Cisco Networking (CCNA path)  
-**Tools:** Git · GCC · Linux
+**Languages:** C · C++ · Python
+**Currently learning:** Java · JavaScript · Web Development · Networking (CCNA)
+**Tools:** Linux · Git · GCC · Networking basics
 
 ## 🎓 Certifications & Qualifications
 
@@ -23,6 +24,10 @@ passionate about low-level systems, networking, and building things from scratch
 
 ## 📚 Currently
 
-- 2nd year CS student @ UKEN Kraków
-- Deepening knowledge of networking fundamentals
-- Building out my portfolio
+- 2nd year Computer Science student @ UKEN Kraków
+- Expanding knowledge in networking (CCNA path)
+- Actively building and improving my portfolio projects
+
+## 📫 Contact
+
+**Mail** : michal.czelusta.dev@gmail.com
