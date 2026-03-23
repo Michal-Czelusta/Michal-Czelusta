@@ -14,8 +14,8 @@ Currently expanding my knowledge in both backend and web technologies.
 
 ## 🎓 Certifications & Qualifications
 
-- INF.02 – IT systems administration (Polish vocational qualification)
-- INF.03 – Web application development (Polish vocational qualification)
+- INF.02 - IT systems administration (Polish vocational qualification)
+- INF.03 - Web application development (Polish vocational qualification)
 - Cisco Networking course (in progress)
 
 ## 🚀 Projects
