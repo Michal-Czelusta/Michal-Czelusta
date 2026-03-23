@@ -6,9 +6,9 @@ Currently expanding my knowledge in both backend and web technologies.
 
 ## 🧰 Tech Stack
 
-**Languages:** C · C++ · Python
+**Languages:** C · C++ · Python · Java 
 
-**Currently learning:** Java · JavaScript · Web Development · Flutter · Networking (CCNA)
+**Currently learning:** JavaScript · Web Development · Flutter
 
 **Tools:** Linux · Git · GCC · Basic networking (TCP/IP, subnetting)
 
