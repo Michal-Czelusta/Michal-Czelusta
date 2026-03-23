@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Michał 👋
 
-<!--
-**Michal-Czelusta/Michal-Czelusta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at the Pedagogical University of Kraków,
+passionate about low-level systems, networking, and building things from scratch.
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** Python · Java · C · C++  
+**Currently learning:** HTML · JS · PHP · Cisco Networking (CCNA path)  
+**Tools:** Git · GCC · Linux
+
+## 🎓 Certifications & Qualifications
+
+- INF.02 – IT systems administration (Polish vocational qualification)
+- INF.03 – Web application development (Polish vocational qualification)
+- Cisco Networking course (in progress)
+
+## 🚀 Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+
+
+## 📚 Currently
+
+- 2nd year CS student @ UKEN Kraków
+- Deepening knowledge of networking fundamentals
+- Building out my portfolio
