@@ -10,7 +10,7 @@ Currently expanding my knowledge in both backend and web technologies.
 
 **Currently learning:** Java · JavaScript · Web Development · Networking (CCNA)
 
-**Tools:** Linux · Git · GCC · Networking basics
+**Tools:** Linux · Git · GCC · Basic networking (TCP/IP, subnetting)
 
 ## 🎓 Certifications & Qualifications
 
@@ -32,4 +32,4 @@ Currently expanding my knowledge in both backend and web technologies.
 
 ## 📫 Contact
 
-**Mail** : michal.czelusta.dev@gmail.com
+**Mail** : [michal.czelusta.dev@gmail.com](mailto:michal.czelusta.dev@gmail.com)
