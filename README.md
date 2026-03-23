@@ -22,7 +22,7 @@ Currently expanding my knowledge in both backend and web technologies.
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [Python Game](link) | A terminal-based game built as a solo project | Python |
+| [Python Game](link) | A 2D game developed using Pygame, with a focus on object-oriented programming principles such as classes, inheritance, and modular code design. | Python |
 
 ## 📚 Currently
 
