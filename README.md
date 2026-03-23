@@ -5,7 +5,7 @@ passionate about low-level systems, networking, and building things from scratch
 
 ## 🧰 Tech Stack
 
-**Languages:** Python · Java · C · C++  
+**Languages:** Python · Java · Kotlin · C · C++  
 **Currently learning:** HTML · JS · PHP · Cisco Networking (CCNA path)  
 **Tools:** Git · GCC · Linux
 
@@ -19,7 +19,7 @@ passionate about low-level systems, networking, and building things from scratch
 
 | Project | Description | Tech |
 |--------|-------------|------|
-
+| [Python Game](link) | A terminal-based game built as a solo project | Python |
 
 ## 📚 Currently
 
