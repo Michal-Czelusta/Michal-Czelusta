@@ -22,8 +22,8 @@ Currently expanding my knowledge in both backend and web technologies.
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [Task manager](https://github.com/Michal-Czelusta/krakflow_flutter) | A mobile to-do app built with Flutter — task management with clean UI | Flutter |
-| [Python Game](https://github.com/Michal-Czelusta/Pygame-Project) | A 2D game developed using Pygame, with a focus on object-oriented programming principles such as classes, inheritance, and modular code design. | Python |
+| [KrakFlow](https://github.com/Michal-Czelusta/krakflow_flutter) | A cross-platform mobile to-do application. Features a clean, minimalist UI designed for efficient daily task management and intuitive user experience. | Flutter |
+| [2D Arcade Game](https://github.com/Michal-Czelusta/Pygame-Project) | A 2D game developed using Pygame, with a focus on object-oriented programming principles such as classes, inheritance, and modular code design. | Python |
 
 ## 📚 Currently
 
